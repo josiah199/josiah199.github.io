@@ -397,7 +397,7 @@ button {
     width: 90%; 
   }
   .fixed h1 {
-    font-size: 100px;
+    font-size: 75px;
   }
   .belief-col, .belief-col2, p, li {
     font-size: 14px;
@@ -416,7 +416,7 @@ button {
     margin: 5% auto;
     width: 90%; 
   }
-   .sunday-school {
+   .same {
     height: 275px;
     width: 275px;
   }
