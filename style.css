@@ -369,6 +369,7 @@ button {
   nav li {
     display: block;
     border-bottom: 1px dotted #000;
+    color: #fff;
   }
   nav a {
     width: 100%;
