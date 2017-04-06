@@ -99,9 +99,14 @@ nav li a:hover {
   color: #fff;
 }
 
-/* Sunday School Section */
+/* Home Section */
 
-
+.fixed-home {
+  background: url('church.jpg');
+  background-size: cover;
+  background-attachment: fixed; 
+  background-position: center; 
+}
 
 /* Beliefs Section  --------------- */
 
