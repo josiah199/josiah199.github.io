@@ -13,7 +13,7 @@ I chose to create a website for my church to use for the Dev Catalyst competion.
 * [Sunday School Page](sunday-school.html)
 * [Ministries' Page](ministries.html)
 * [Contact Page](contact.html)
-* [Styesheet](style.css)
+* [Stylesheet](style.css)
 * [Jquery Responsive Menu](script.js)
 
 ### The Images Used
