@@ -40,15 +40,15 @@ I chose to create a website for my church to use for the Dev Catalyst competion.
 
 Josh was responsible for the content for "Our Beliefs" and "Sunday School."
 
-### Greg and Melissa Watson
+### Greg & Melissa Watson
 
-Greg and Melissa Watson were responsible for the content for the "Home page."
+Greg and Melissa Watson were responsible for the content for the "Home" page.
 
 ### Cassie Seten Watson
 
 Cassie Seten Watson contributed her photography skills and experience.
 
-### Jay Watson
+### James Watson
 
 Jay Watson is my teacher and mentor. He has been an invaluable resource for my coding questions and overall
 guidance for this project.
