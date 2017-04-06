@@ -24,16 +24,16 @@ So win-win.
 ## How does the files work?
 
 * The [index.html](index.html) is the home page. It gives a brief welcome
- and shows the times of the services.
+ and information of the times of the services.
 
-* The [beliefs.html](beliefs.html) gives a desciption of what the core beliefs of the church.
+* The [beliefs.html](beliefs.html) gives a desciption of the core beliefs of the church.
 
-* The [sunday-school.html](sunday-school.html) gives an overview the Sunday School program.
+* The [sunday-school.html](sunday-school.html) gives an overview of the Sunday School program.
 
-* The [ministries.html](ministries.html) is all about what the church donates too, and their way to spread The Gospel.
+* The [ministries.html](ministries.html) tells how the chuch gives its time and money, at home and abroad, to further the gospel of Jesus Christ. 
  This was a four column grid with images and an overview of we do.
 
-* The [contact.html](contact.html) gives contact information for the church. We made a two column grid and a form.
+* The [contact.html](contact.html) gives contact information for the church. I made a two column grid and a form.
 
 # People Involved In this Project
 
@@ -51,5 +51,5 @@ Cassie Seten Watson contributed her photography skills and experience.
 
 ### Jay Watson
 
-Jay Watson is my teacher. He has been an invaluable resource for my coding questions and overall...
+Jay Watson is my teacher and mentor. He has been an invaluable resource for my coding questions and overall
 guidance for this project.
