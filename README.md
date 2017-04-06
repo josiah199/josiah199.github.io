@@ -50,5 +50,5 @@ Cassie Seten Watson contributed her photography skills and experience.
 
 ### James Watson
 
-Jay Watson is my teacher and mentor. He has been an invaluable resource for my coding questions and overall
+James Watson is my teacher and mentor. He has been an invaluable resource for my coding questions and overall
 guidance for this project.
