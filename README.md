@@ -4,42 +4,42 @@
 
 ## What is the website being used for?
 
-This website is for my dev catalist competition and also a website for my church.
+This website is for my Dev Catalist competition and also a website for my church.
 So win-win.
 
 ## The Files Used For My Website
 
-* [My Home Page](index.html)
-* [My Beliefs Page](beliefs.html)
-* [My Sunday School Page](sunday-school.html)
-* [My Ministries Page](ministries.html)
-* [My Contact Page](contact.html)
-* [My Styesheet](style.css)
-* [My Jquery Responsive Menu](script.js)
+* [Home Page](index.html)
+* [Belief's Page](beliefs.html)
+* [Sunday School Page](sunday-school.html)
+* [Ministries' Page](ministries.html)
+* [Contact Page](contact.html)
+* [Styesheet](style.css)
+* [Jquery Responsive Menu](script.js)
 
 ### The Images Used
 
-* [The Image Folder](img)
+* [Image Folder](img)
 
 ## How does the files work?
 
-* The [index.html](index.html) is the home page, it gives a brief welcome,
- and shows the time of the services.
+* The [index.html](index.html) is the home page. It gives a brief welcome
+ and shows the times of the services.
 
-* The [beliefs.html](beliefs.html) gives a desciption of what the core beliefs of our church.
+* The [beliefs.html](beliefs.html) gives a desciption of what the core beliefs of the church.
 
-* The [sunday-school.html](sunday-school.html) tells us about our sunday school, our teacher, and ect.
+* The [sunday-school.html](sunday-school.html) gives an overview the Sunday School program.
 
-* The [ministries.html](ministries.html) this is all about what the church donates too, and they're way to spread The Gospel.
- This was a four colum grid with images and an overview of we do.
+* The [ministries.html](ministries.html) is all about what the church donates too, and their way to spread The Gospel.
+ This was a four column grid with images and an overview of we do.
 
-* The [contact.html](contact.html) a way in order to get a hold of the church. What we did was make a two colum grid and a form.
+* The [contact.html](contact.html) gives contact information for the church. We made a two column grid and a form.
 
 # People Involved In this Project
 
 ### Josh Watson
 
-Josh was responsible for the content for Our Beliefs, and Sunday School.
+Josh was responsible for the content for "Our Beliefs" and "Sunday School."
 
 ### Greg and Melissa Watson
 
@@ -47,10 +47,9 @@ Greg and Melissa Watson was responsible for the content for the Home page.
 
 ### Cassie Seten Watson
 
-Cassie Seten Watson helped with the photos and photoshopped.
+Cassie Seten Watson contributed her photography skills and experience.
 
 ### Jay Watson
 
-Jay Watson is my teacher, he has helped if I had any question about anything. ...
-Without him I would not be able to position or make a resposive website. And also...
-helped with the content on the Ministries page.
+Jay Watson is my teacher. He has been an invaluable resource for my coding questions and overall...
+guidance for this project.
