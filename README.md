@@ -31,9 +31,9 @@ So win-win.
 * The [sunday-school.html](sunday-school.html) gives an overview of the Sunday School program.
 
 * The [ministries.html](ministries.html) tells how the chuch gives its time and money, at home and abroad, to further the gospel of Jesus Christ. 
- This was a four column grid with images and an overview of we do.
+ This was a four column grid with images and an overview of what the church does.
 
-* The [contact.html](contact.html) gives contact information for the church. I made a two column grid and a form.
+* The [contact.html](contact.html) gives contact information of the church. I made a two column grid and a form.
 
 # People Involved In this Project
 
