@@ -102,7 +102,7 @@ nav li a:hover {
 /* Home Section */
 
 .fixed-home {
-  background: url('church.jpg');
+  background: url('front.jpg');
   background-size: cover;
   background-attachment: fixed; 
   background-position: center; 
