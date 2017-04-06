@@ -4,8 +4,7 @@
 
 ## What is the website being used for?
 
-This website is for my Dev Catalist competition and also a website for my church.
-So win-win.
+I chose to create a website for my church to use for the Dev Catalyst competion.
 
 ## The Files Used For My Website
 
