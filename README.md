@@ -43,7 +43,7 @@ Josh was responsible for the content for "Our Beliefs" and "Sunday School."
 
 ### Greg and Melissa Watson
 
-Greg and Melissa Watson was responsible for the content for the Home page.
+Greg and Melissa Watson were responsible for the content for the "Home page."
 
 ### Cassie Seten Watson
 
